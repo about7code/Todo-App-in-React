@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/about7code/Todo-App-in-React.git/static/css/main.f0fdf01b.chunk.css",
-    "main.js": "/about7code/Todo-App-in-React.git/static/js/main.04680fc8.chunk.js",
-    "main.js.map": "/about7code/Todo-App-in-React.git/static/js/main.04680fc8.chunk.js.map",
-    "runtime-main.js": "/about7code/Todo-App-in-React.git/static/js/runtime-main.84bfe538.js",
-    "runtime-main.js.map": "/about7code/Todo-App-in-React.git/static/js/runtime-main.84bfe538.js.map",
-    "static/js/2.2d0f9acd.chunk.js": "/about7code/Todo-App-in-React.git/static/js/2.2d0f9acd.chunk.js",
-    "static/js/2.2d0f9acd.chunk.js.map": "/about7code/Todo-App-in-React.git/static/js/2.2d0f9acd.chunk.js.map",
-    "index.html": "/about7code/Todo-App-in-React.git/index.html",
-    "precache-manifest.8e3bbb9b837a459e2a4796724871609b.js": "/about7code/Todo-App-in-React.git/precache-manifest.8e3bbb9b837a459e2a4796724871609b.js",
-    "service-worker.js": "/about7code/Todo-App-in-React.git/service-worker.js",
-    "static/css/main.f0fdf01b.chunk.css.map": "/about7code/Todo-App-in-React.git/static/css/main.f0fdf01b.chunk.css.map",
-    "static/js/2.2d0f9acd.chunk.js.LICENSE.txt": "/about7code/Todo-App-in-React.git/static/js/2.2d0f9acd.chunk.js.LICENSE.txt"
+    "main.css": "//about7code.github.io/Todo-App-in-React/static/css/main.f0fdf01b.chunk.css",
+    "main.js": "//about7code.github.io/Todo-App-in-React/static/js/main.b18281df.chunk.js",
+    "main.js.map": "//about7code.github.io/Todo-App-in-React/static/js/main.b18281df.chunk.js.map",
+    "runtime-main.js": "//about7code.github.io/Todo-App-in-React/static/js/runtime-main.afd7ed98.js",
+    "runtime-main.js.map": "//about7code.github.io/Todo-App-in-React/static/js/runtime-main.afd7ed98.js.map",
+    "static/js/2.2d0f9acd.chunk.js": "//about7code.github.io/Todo-App-in-React/static/js/2.2d0f9acd.chunk.js",
+    "static/js/2.2d0f9acd.chunk.js.map": "//about7code.github.io/Todo-App-in-React/static/js/2.2d0f9acd.chunk.js.map",
+    "index.html": "//about7code.github.io/Todo-App-in-React/index.html",
+    "precache-manifest.e9e8a4c08389e890c65cf54b95740a23.js": "//about7code.github.io/Todo-App-in-React/precache-manifest.e9e8a4c08389e890c65cf54b95740a23.js",
+    "service-worker.js": "//about7code.github.io/Todo-App-in-React/service-worker.js",
+    "static/css/main.f0fdf01b.chunk.css.map": "//about7code.github.io/Todo-App-in-React/static/css/main.f0fdf01b.chunk.css.map",
+    "static/js/2.2d0f9acd.chunk.js.LICENSE.txt": "//about7code.github.io/Todo-App-in-React/static/js/2.2d0f9acd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.84bfe538.js",
+    "static/js/runtime-main.afd7ed98.js",
     "static/js/2.2d0f9acd.chunk.js",
     "static/css/main.f0fdf01b.chunk.css",
-    "static/js/main.04680fc8.chunk.js"
+    "static/js/main.b18281df.chunk.js"
   ]
 }
